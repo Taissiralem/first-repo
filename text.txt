@@ -1,0 +1,14 @@
+cd : enter
+cd .. :go back
+touch : create file
+add . : stage
+commit : commit
+rm : remove
+git show :show last commit
+git log : show all commits
+git init initialiser le projet
+mkdir : create folder
+ls : show the content of your current folder 
+code . : open vs code in the folder
+tracked/untracked files 
+repo-folder
